@@ -7,4 +7,4 @@ y = c(2, 4, 6, 8)
 df = data.frame(x, y)
 
 ggplot()+
-  geom_point(aes(x, y), colour="red", size = 3)
+  geom_point(aes(x, y), colour="blue", size = 3)
